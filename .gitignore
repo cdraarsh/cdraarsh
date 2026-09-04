@@ -1,0 +1,4 @@
+.venv/
+source-photo.*
+source-prepped.png
+.DS_Store
