@@ -121,7 +121,14 @@ def main():
 </style>"""
     svg_parts.append(style)
 
-    svg_parts.append(f'<rect x="0" y="0" width="{width:.1f}" height="{height:.1f}" fill="none"/>')
+    # Opaque background. A GitHub profile renders in LIGHT mode for logged-out
+    # visitors, and these glyphs are light-gray -- on a transparent background
+    # the portrait is invisible to anyone not signed in. The info card and the
+    # heatmap already bake in their own dark ground; this matches them.
+    svg_parts.append(
+        f'<rect x="0" y="0" width="{width:.1f}" height="{height:.1f}" '
+        f'fill="#0d1117" rx="6"/>'
+    )
 
     defs = ['<defs>']
     body = []
