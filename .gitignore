@@ -1,4 +1,5 @@
 .venv/
 source-photo.*
 source-prepped.png
+source-mask.png
 .DS_Store

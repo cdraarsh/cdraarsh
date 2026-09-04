@@ -1,0 +1,32 @@
+<svg width="490" height="370" viewBox="0 0 490 370" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="neofetch-style info card for cdraarsh">
+  <style>
+    .ln {
+      opacity: 0;
+      animation: fadeSlide 0.5s ease-out forwards;
+    }
+    @keyframes fadeSlide {
+      0%   { opacity: 0; transform: translateY(6px); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="489" height="369" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <g class="ln" style="animation-delay:0.00s">
+    <text x="20" y="37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#39d353">cdraarsh@github</text>
+  </g>
+  <g class="ln" style="animation-delay:0.04s">
+    <line x1="20" y1="47" x2="470" y2="47" stroke="#8b949e" stroke-opacity="0.4" stroke-width="1"/>
+  </g>
+  <g class="ln" style="animation-delay:0.00s"><text x="20" y="73" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700" fill="#39d353">Now</text><text x="118" y="73" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Product @ SigIQ.ai  ·  EverTutor (K-12 AI</text></g>
+<g class="ln" style="animation-delay:0.09s"><text x="118" y="93" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">tutor)</text></g>
+<g class="ln" style="animation-delay:0.18s"><text x="20" y="119" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700" fill="#39d353">Prev</text><text x="118" y="119" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Apponty  ·  Product Intern</text></g>
+<g class="ln" style="animation-delay:0.27s"><text x="20" y="145" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700" fill="#39d353">Stack</text><text x="118" y="145" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Python  ·  TypeScript  ·  Next.js  ·  Claude</text></g>
+<g class="ln" style="animation-delay:0.36s"><text x="118" y="165" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Code skills</text></g>
+<g class="ln" style="animation-delay:0.45s"><text x="20" y="191" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700" fill="#39d353">Highlights</text><text x="118" y="191" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">claude-web-studio — AI website builder stack</text></g>
+<g class="ln" style="animation-delay:0.54s"><text x="118" y="211" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">equity-research-india — Indian-equities</text></g>
+<g class="ln" style="animation-delay:0.63s"><text x="118" y="231" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">research skill</text></g>
+<g class="ln" style="animation-delay:0.72s"><text x="118" y="251" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">company-recon — structured company background</text></g>
+<g class="ln" style="animation-delay:0.81s"><text x="118" y="271" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">checks</text></g>
+<g class="ln" style="animation-delay:0.90s"><text x="118" y="291" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">notebooklm-newsletter-pipeline — Gmail →</text></g>
+<g class="ln" style="animation-delay:0.99s"><text x="118" y="311" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">NotebookLM digests</text></g>
+<g class="ln" style="animation-delay:1.08s"><text x="118" y="331" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">viewmd — native Mac Markdown reader</text></g>
+</svg>

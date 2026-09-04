@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370.0 349.8" width="370" role="img" aria-label="ASCII art portrait">
+
+<style>
+  .ascii-row {
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-size: 3.7px;
+    fill: #c9d1d9;
+    white-space: pre;
+  }
+  .cursor {
+    fill: #c9d1d9;
+  }
+</style>
+<rect x="0" y="0" width="370.0" height="349.8" fill="none"/>
+<defs>
+<clipPath id="clip0"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip1"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip2"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip3"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip4"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip5"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip6"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip7"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip8"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip9"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip10"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip11"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip12"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip13"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip14"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip15"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip16"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip17"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip18"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip19"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip20"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip21"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip22"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip23"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip24"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip25"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip26"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip27"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip28"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip29"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip30"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip31"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip32"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip33"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip34"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip35"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip36"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip37"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip38"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip39"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip40"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip41"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip42"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip43"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip44"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip45"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip46"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip47"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip48"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip49"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip50"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip51"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+<clipPath id="clip52"><rect x="0" y="0" width="370.0" height="6.6"/></clipPath>
+</defs>
+<g clip-path="url(#clip0)"><text class="ascii-row" x="0" y="5.15">                                                                                                    </text></g>
+<g clip-path="url(#clip1)"><text class="ascii-row" x="0" y="11.75">                                                                                                    </text></g>
+<g clip-path="url(#clip2)"><text class="ascii-row" x="0" y="18.35">                                                                                                    </text></g>
+<g clip-path="url(#clip3)"><text class="ascii-row" x="0" y="24.95">                                                                                                    </text></g>
+<g clip-path="url(#clip4)"><text class="ascii-row" x="0" y="31.55">                                                    ..:-:.                                          </text></g>
+<g clip-path="url(#clip5)"><text class="ascii-row" x="0" y="38.15">                                               -+*s#%##%#s*:                                        </text></g>
+<g clip-path="url(#clip6)"><text class="ascii-row" x="0" y="44.75">                                           .-+s@@%##%%ss###sc`                                      </text></g>
+<g clip-path="url(#clip7)"><text class="ascii-row" x="0" y="51.35">                                          `c%@%%%#scssc*s###%%+                                     </text></g>
+<g clip-path="url(#clip8)"><text class="ascii-row" x="0" y="57.95">                                         +%@%%%%%##s##%#%%%@@@@c`                                   </text></g>
+<g clip-path="url(#clip9)"><text class="ascii-row" x="0" y="64.55">                                        c@@@@@@@%%###%%@%@@@@@@@%-                                  </text></g>
+<g clip-path="url(#clip10)"><text class="ascii-row" x="0" y="71.15">                                       `%@@@%#s*+==----=+*cs#%@@@%`                                 </text></g>
+<g clip-path="url(#clip11)"><text class="ascii-row" x="0" y="77.75">                                       *@@%c+=--::``.....:-==+#@%@c                                 </text></g>
+<g clip-path="url(#clip12)"><text class="ascii-row" x="0" y="84.35">                                       c@@s+====--:``````----==#%%c                                 </text></g>
+<g clip-path="url(#clip13)"><text class="ascii-row" x="0" y="90.95">                                       *@%*+==--::`...``:---===cs#+                                 </text></g>
+<g clip-path="url(#clip14)"><text class="ascii-row" x="0" y="97.55">                                       =%scc*****=--`::`:---===*##:                                 </text></g>
+<g clip-path="url(#clip15)"><text class="ascii-row" x="0" y="104.15">                                     `*=#ccsss#%%%##ss####sc****%s                                  </text></g>
+<g clip-path="url(#clip16)"><text class="ascii-row" x="0" y="110.75">                                     :%s#*++*c***css-c##%%%%#csss-`.                                </text></g>
+<g clip-path="url(#clip17)"><text class="ascii-row" x="0" y="117.35">                                     .*ss*=-````:=*-`:*-==+**cc****                                 </text></g>
+<g clip-path="url(#clip18)"><text class="ascii-row" x="0" y="123.95">                                      `csc=::::+*+=-``-+-```:+-+c+:                                 </text></g>
+<g clip-path="url(#clip19)"><text class="ascii-row" x="0" y="130.55">                                       +#c+=--==cs##csc*s*--=-=*=:                                  </text></g>
+<g clip-path="url(#clip20)"><text class="ascii-row" x="0" y="137.15">                                       `ssc+=cccccccsc*==c+-=+**-                                   </text></g>
+<g clip-path="url(#clip21)"><text class="ascii-row" x="0" y="143.75">                                        :#c+:=*#s+=--+c#ssc+**c-.                                   </text></g>
+<g clip-path="url(#clip22)"><text class="ascii-row" x="0" y="150.35">                                         +#*-:`-+-```:+*=*-=*s-                                     </text></g>
+<g clip-path="url(#clip23)"><text class="ascii-row" x="0" y="156.95">                                       ..`##c+=:+c**+*+`:==c#-                                      </text></g>
+<g clip-path="url(#clip24)"><text class="ascii-row" x="0" y="163.55">                                    -c#%@%s#%#c-`:----`:+c#%-                                       </text></g>
+<g clip-path="url(#clip25)"><text class="ascii-row" x="0" y="170.15">                                   +%@@@%*ss#%%%c+=--=*s#%%cs*`                                     </text></g>
+<g clip-path="url(#clip26)"><text class="ascii-row" x="0" y="176.75">                                  `scs@%:*#ss#%@@@%%%@@%%#*+c@%-                                    </text></g>
+<g clip-path="url(#clip27)"><text class="ascii-row" x="0" y="183.35">                            .`:-=*cssccc-:ssss#%%%%%%%#sc*+s++@#`                                   </text></g>
+<g clip-path="url(#clip28)"><text class="ascii-row" x="0" y="189.95">                       .:-=+*****cs*ssc*c*cssss#####sc*+++*##.##+.                                  </text></g>
+<g clip-path="url(#clip29)"><text class="ascii-row" x="0" y="196.55">                  .`-+*****++++*++sscccscc*s#*+++***++==+*c#c +@sc+-`                               </text></g>
+<g clip-path="url(#clip30)"><text class="ascii-row" x="0" y="203.15">                -cccc**+++++++++++*#scccc*ss=c=-:--=====*ccss+=@#cs**+=:.                           </text></g>
+<g clip-path="url(#clip31)"><text class="ascii-row" x="0" y="209.75">               -#sc**c*++++++++++++csccccc#*#ccc=-----=+*+*s#@s%%c*c+++*+=:.                        </text></g>
+<g clip-path="url(#clip32)"><text class="ascii-row" x="0" y="216.35">              :ccc***cc++++++*+++++*#c*cc#*:=++++===--=----::+s%%s**c++++**+=`                      </text></g>
+<g clip-path="url(#clip33)"><text class="ascii-row" x="0" y="222.95">             `cccs***cc+++*****++***#scc#*`:::`::::-==++=::``:#@%s*+**+*++++**=`                    </text></g>
+<g clip-path="url(#clip34)"><text class="ascii-row" x="0" y="229.55">            .*sccsc**sc++++++**++**c#ss#c:--::::::::=---:::::-#%%#**+*+**+**++**:                   </text></g>
+<g clip-path="url(#clip35)"><text class="ascii-row" x="0" y="236.15">            +scccsc*+sc++++****+***c#s%*::::----:--=-:-:-:::`=%#@%**+++**++*****+                   </text></g>
+<g clip-path="url(#clip36)"><text class="ascii-row" x="0" y="242.75">           :scs*css**sc++++*******cs%#%=:-::------+-::---::::+%#%%s**+++**+***c**`                  </text></g>
+<g clip-path="url(#clip37)"><text class="ascii-row" x="0" y="249.35">           *sccc*ss+*#c++++**c****cs%%%*:--------==:::-----:`*%##%s***++********c-                  </text></g>
+<g clip-path="url(#clip38)"><text class="ascii-row" x="0" y="255.95">          =s*scc+*#**#c******cc***cs#%%c`::------==:------:::c####s*++++******ccs=                  </text></g>
+<g clip-path="url(#clip39)"><text class="ascii-row" x="0" y="262.55">         `ss**ss++c#s%s***ccss#cccss#%%c::-------=----=----::s####c*+++++*****ccs=                  </text></g>
+<g clip-path="url(#clip40)"><text class="ascii-row" x="0" y="269.15">         *ccc*+#c+c##%ccccccs##scss##%%c:--------=-::------:-#####c******cc***ccc+                  </text></g>
+<g clip-path="url(#clip41)"><text class="ascii-row" x="0" y="275.75">        :#****+c#*+#%#ccccccss#sss###%%c:----------=-=-----:=#####sc***c*cscccs***                  </text></g>
+<g clip-path="url(#clip42)"><text class="ascii-row" x="0" y="282.35">        cs******s**#%s+++***ss#sscs##%%*:--------=-=-=-----`+%###ssccc*c*cscccs**c                  </text></g>
+<g clip-path="url(#clip43)"><text class="ascii-row" x="0" y="288.95">       -#c*+++*cc*cs%s++++++**ssc*cs#%%=:------===::-=-----`*%%%#ssscccc*cccccsc*c`                 </text></g>
+<g clip-path="url(#clip44)"><text class="ascii-row" x="0" y="295.55">       *c*+++++*c*cs%s*+++++**ssc**c#%#----====--=---=-----`c%%%ssccc*********sc*c:                 </text></g>
+<g clip-path="url(#clip45)"><text class="ascii-row" x="0" y="302.15">      :s****+*****c#%s*+++++**s#cccs#%c:--========--======-:s%%#ssc****+++**+*s**c-                 </text></g>
+<g clip-path="url(#clip46)"><text class="ascii-row" x="0" y="308.75">      *s*+++*++***c%%s*++++++*s#sccs#%+----=====+---======--s%%#sscc*****+***csc*c=                 </text></g>
+<g clip-path="url(#clip47)"><text class="ascii-row" x="0" y="315.35">     :#c*+**++++**c%%#*++=+++*c##css##---========-====--==--#%%#sssc******+**ssc*c+                 </text></g>
+<g clip-path="url(#clip48)"><text class="ascii-row" x="0" y="321.95">     +#*+++*cc*++*s%%#*++==+++c##css%s:---=====+=*+===--=--=#%%##sscc********ssc*c*                 </text></g>
+<g clip-path="url(#clip49)"><text class="ascii-row" x="0" y="328.55">    `cc*+++=+*cc*c#%%#*+++++++*##css%*:--------+=---=+===-=+%%%##ssccc*******ssc*cc                 </text></g>
+<g clip-path="url(#clip50)"><text class="ascii-row" x="0" y="335.15">    +sc*+*cc*++**s%%%sc+++++++*s#ccs%+----====-+=:---=++==-+%%%##ssccc******c#ssc*c.                </text></g>
+<g clip-path="url(#clip51)"><text class="ascii-row" x="0" y="341.75">    cs*c+*+*cssccs#%%s*+++++++*s%scs#=-========+=--====+*==*%%%##sscccc*****c#scc*c`                </text></g>
+<g clip-path="url(#clip52)"><text class="ascii-row" x="0" y="348.35">   :#s+***++++*css#@%s+++++++++c#%s##:----=====+==-=--==++-*%%%##ssccc**ccc*c#sc**c:                </text></g>
+</svg>
